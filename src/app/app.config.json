@@ -1,0 +1,15 @@
+{
+	"appname": "default access App",
+	"scope": "FullAccess",
+	"clientid": "FB7BC0AC-8630-44DB-95E8-D0A0D8D00802",
+	"buyerid": "AAXISCommerce",
+	"catalogid": "AAXISCorp",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
